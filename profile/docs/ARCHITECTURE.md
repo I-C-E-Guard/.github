@@ -1,3 +1,8 @@
+![govactapp-banner](../images/govactapp-banner-dark.png#gh-dark-mode-only)
+![govactapp-banner](../images/govactapp-banner-light.png#gh-light-mode-only)
+
+Back to [README.md > Get Involved](../README.md#get-involved)
+
 # Architecture & Deployment (High-Level)
 
 This document describes GovAct’s architecture at a high level. It is intentionally implementation-agnostic where possible to preserve portability, independent deployment, and long-term resilience.
