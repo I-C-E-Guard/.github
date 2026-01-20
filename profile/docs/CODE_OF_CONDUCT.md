@@ -1,10 +1,16 @@
+![govactapp-banner](../images/govactapp-banner-dark.png#gh-dark-mode-only)
+![govactapp-banner](../images/govactapp-banner-light.png#gh-light-mode-only)
+
+Back to [README.md > Get Involved](../README.md#get-involved)
+
 # Code of Conduct
 
 ## Our Pledge
 
-We, as contributors and maintainers of **Ice Guard**, pledge to make participation in this project a respectful, safe, and constructive experience for everyone.
+We, as contributors and maintainers of **GovAct**, pledge to make participation in this project a respectful, safe, and constructive experience for everyone.
 
-Ice Guard is a public-interest project focused on documentation, visibility, and durability. Passionate topics do not excuse harmful behavior.
+GovAct is a public-interest project focused on documentation, visibility, and durability.  
+The subject matter can be serious and emotionally charged, but that does not excuse harmful behavior.
 
 ---
 
@@ -36,7 +42,7 @@ These standards apply to **all project spaces**, including code, issues, pull re
 
 ## Safety and Scope
 
-Because Ice Guard deals with real-world events that affect real people:
+Because GovAct deals with real-world events that affect real people:
 
 - Discussions must not speculate about private individuals
 - Contributors must not attempt to identify or track individuals
@@ -67,7 +73,7 @@ If you experience or witness behavior that violates this Code of Conduct:
 
 - Do **not** escalate publicly
 - Do **not** retaliate
-- Report the issue privately to the maintainers via the project repository or designated contact method
+- Report the issue privately via the project repository or designated contact method
 
 Reports will be reviewed in good faith and handled as discreetly as possible.
 
@@ -75,27 +81,27 @@ Reports will be reviewed in good faith and handled as discreetly as possible.
 
 ## Enforcement Guidelines
 
-Maintainers will consider the following when responding to violations:
+Maintainers will consider:
 
 - Severity and impact of the behavior
-- Whether it poses safety or privacy risks
-- Whether it appears to be part of a pattern
+- Safety or privacy risk
+- Whether it is part of a pattern
 - The contributor’s response when concerns are raised
 
-Not all violations will receive warnings. Severe or unsafe behavior may result in immediate action.
+Not all violations receive warnings.  
+Severe or unsafe behavior may result in immediate action.
 
 ---
 
 ## Attribution
 
-This Code of Conduct is adapted from the **Contributor Covenant**, version 2.1.
-
+This Code of Conduct is adapted from the **Contributor Covenant**, version 2.1.  
 https://www.contributor-covenant.org/
 
 ---
 
 ## Final Note
 
-Ice Guard exists to make information visible without turning people into targets.
+GovAct exists to make information visible **without turning people into targets**.
 
-Respect, restraint, and care are not optional — they are foundational to the project.
+Respect, restraint, and care are foundational to the project.
