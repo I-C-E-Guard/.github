@@ -101,7 +101,7 @@ If you’re interested in helping build or maintain the platform, start here:
 
 - **Contributing** → [`CONTRIBUTING.md`](./docs/CONTRIBUTING.md)
 - **Content Policy** → [`CONTENT_POLICY.md`](./docs/CONTENT_POLICY.md)
-- **Privacy & data handling** → [`PRIVACY.md`](./dpcs/PRIVACY.md)  
+- **Privacy & data handling** → [`PRIVACY.md`](./docs/PRIVACY.md)  
 - **Security reporting** → [`SECURITY.md`](./docs/SECURITY.md)  
 - **Code of conduct** → [`CODE_OF_CONDUCT.md`](./docs/CODE_OF_CONDUCT.md)  
 - **Project overview** → [`OVERVIEW.md`](./docs/OVERVIEW.md)  
