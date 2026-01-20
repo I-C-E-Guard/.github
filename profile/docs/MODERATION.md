@@ -1,22 +1,27 @@
+![govactapp-banner](../images/govactapp-banner-dark.png#gh-dark-mode-only)
+![govactapp-banner](../images/govactapp-banner-light.png#gh-light-mode-only)
+
+Back to [README.md > Get Involved](../README.md#get-involved)
+
 # Moderation Policy
 
-Ice Guard exists to provide **situational awareness and durable documentation** while minimizing harm to individuals and communities.
+GovAct exists to provide **situational awareness and durable documentation** while minimizing harm to individuals and communities.
 
-Moderation is a necessary part of that mission. This document explains **how moderation works today**, how decisions are made, and how this process may evolve over time.
+Moderation is a necessary part of that mission. This document explains how moderation works, how decisions are made, and how the process may evolve over time.
 
 ---
 
 ## Moderation Philosophy
 
-Ice Guard moderation is guided by the following principles:
+GovAct moderation is guided by:
 
-- **Safety over completeness**  
-- **Consistency over discretion**  
-- **Documentation over judgment**  
-- **Transparency over opacity**  
+- **Safety over completeness**
+- **Consistency over discretion**
+- **Documentation over judgment**
+- **Transparency over opacity**
 
-Moderation is not about endorsing or rejecting viewpoints.  
-It is about reducing harm, protecting privacy, and preserving the integrity of the platform.
+Moderation is not used to shape narratives or suppress disagreement.  
+It exists solely to reduce harm, protect privacy, and preserve platform integrity.
 
 ---
 
@@ -28,7 +33,7 @@ Moderation applies to:
 - Text descriptions
 - Uploaded media
 - Metadata associated with submissions
-- User behavior related to submissions
+- User behavior related to submissions (e.g., repeated abuse, evasion attempts)
 
 Moderation does **not** apply to the **Verified Public Events** timeline in the same way, as those entries are curated separately based on independent sources.
 
@@ -38,12 +43,12 @@ Moderation does **not** apply to the **Verified Public Events** timeline in the 
 
 Community-submitted content may exist in one of the following states:
 
-- **Visible** — publicly displayed on the map
+- **Visible** — publicly displayed
 - **Flagged** — under review due to potential policy concerns
 - **Hidden** — removed from public view but retained internally
 - **Removed** — permanently removed due to severe or repeated violations
 
-State transitions are applied consistently and based on policy criteria.
+State transitions should be applied consistently and based on policy criteria.
 
 ---
 
@@ -52,7 +57,7 @@ State transitions are applied consistently and based on policy criteria.
 Content may be flagged for review due to:
 
 - User reports or flags
-- Automated abuse detection
+- Automated abuse detection and heuristics
 - Moderator review
 - Policy updates that affect existing content
 
@@ -64,7 +69,7 @@ Flagging does not imply wrongdoing — it indicates the need for review.
 
 When reviewing content, moderators consider:
 
-- Compliance with the Content Policy
+- Compliance with `CONTENT_POLICY.md`
 - Risk of harm to individuals or communities
 - Presence of identifying or sensitive information
 - Context, timing, and severity
@@ -80,7 +85,7 @@ Possible moderation actions include:
 
 - No action (content remains visible)
 - Request for clarification or modification
-- Partial redaction (e.g., removal of identifying details)
+- Partial redaction (e.g., removing identifying details)
 - Hiding content from public view
 - Permanent removal
 
@@ -96,7 +101,7 @@ Where feasible:
 - Corrections or additional context may be submitted
 - Decisions may be revisited if new information becomes available
 
-Ice Guard is not obligated to host content that poses ongoing safety risks.
+GovAct is not obligated to host content that poses ongoing safety risks.
 
 ---
 
@@ -104,29 +109,32 @@ Ice Guard is not obligated to host content that poses ongoing safety risks.
 
 Moderation actions are:
 
-- Logged internally
+- Logged internally (where supported)
 - Applied using documented criteria
 - Subject to review by maintainers
 
-As the project matures, Ice Guard may introduce:
-- public transparency reports
-- aggregate moderation statistics
-- documented policy changes
+As the project matures, GovAct may introduce:
+
+- Public transparency reports
+- Aggregate moderation statistics
+- Documented policy change logs
 
 ---
 
-## Evolving Policy
+## Policy Changes and Versioning
 
-This moderation policy is **not static**.
+Moderation policy and enforcement logic are not static.
 
-As Ice Guard grows, moderation practices may evolve in response to:
-- real-world use patterns
-- abuse trends
-- contributor feedback
-- legal and safety considerations
-- lessons learned from operation
+Changes may occur in response to:
 
-Changes to moderation logic or policy will be:
+- Real-world use patterns
+- Abuse trends
+- Contributor feedback
+- Legal and safety considerations
+- Lessons learned in operation
+
+Changes should be:
+
 - documented in version control
 - reflected in updated policy documents
 - applied prospectively where feasible
@@ -138,10 +146,11 @@ Changes to moderation logic or policy will be:
 Moderation decisions are made by project maintainers acting in good faith.
 
 Maintainers are responsible for:
-- applying policies consistently
-- prioritizing safety
-- avoiding arbitrary or retaliatory actions
-- updating policies when existing approaches prove insufficient
+
+- Applying policies consistently
+- Prioritizing safety and privacy
+- Avoiding arbitrary or retaliatory actions
+- Updating policies when existing approaches prove insufficient
 
 Moderation authority exists to protect the project and its users, not to silence disagreement.
 
@@ -149,10 +158,10 @@ Moderation authority exists to protect the project and its users, not to silence
 
 ## Forks and Independent Deployments
 
-Ice Guard is open source and may be deployed independently by third parties.
+GovAct is open source and may be deployed independently by third parties.
 
-This moderation policy applies only to deployments operated by the Ice Guard maintainers.  
-Forks or derivative deployments may adopt different moderation approaches.
+This moderation policy applies only to deployments operated by the GovAct maintainers.  
+Forks or derivative deployments may adopt different moderation approaches and policies.
 
 ---
 
@@ -160,4 +169,4 @@ Forks or derivative deployments may adopt different moderation approaches.
 
 Moderation is an ongoing process, not a finished design.
 
-Ice Guard is committed to improving moderation practices over time while remaining transparent about how decisions are made and why.
+GovAct is committed to improving moderation practices over time while remaining transparent about how decisions are made and why.
