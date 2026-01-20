@@ -99,7 +99,8 @@ GovAct is an open-source project and welcomes contributions in many forms, inclu
 
 If you’re interested in helping build or maintain the platform, start here:
 
-- **Contributing** → [`CONTRIBUTING.md`](./docs/CONTRIBUTING.md)  
+- **Contributing** → [`CONTRIBUTING.md`](./docs/CONTRIBUTING.md)
+- **Content Policy** → [`CONTENT_POLICY.md`](./docs/CONTENT_POLICY.md)
 - **Privacy & data handling** → [`PRIVACY.md`](./dpcs/PRIVACY.md)  
 - **Security reporting** → [`SECURITY.md`](./docs/SECURITY.md)  
 - **Code of conduct** → [`CODE_OF_CONDUCT.md`](./docs/CODE_OF_CONDUCT.md)  
