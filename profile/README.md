@@ -1,5 +1,5 @@
-![govactapp-banner](./govactapp-banner-dark.png#gh-dark-mode-only)
-![govactapp-banner](./govactapp-banner-light.png#gh-light-mode-only)
+![govactapp-banner](./images/govactapp-banner-dark.png#gh-dark-mode-only)
+![govactapp-banner](./images/govactapp-banner-light.png#gh-light-mode-only)
 **Open infrastructure for documenting government activity**
 
 GovAct is a community-driven, fully open-source platform for documenting and visualizing publicly observable government activity and its real-world impacts — both positive and negative.
